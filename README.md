@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Brenda+Beatriz;I'm+19+years+old;I'm+from+Brazil;I+student+software+Enginner;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Brenda+Beatriz;I'm+19+years+old;I'm+from+Brazil;Software+engineer+student;Be+Welcome!+:%29)](https://git.io/typing-svg)
  <img align="right" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" width="500" height="320" />
  
 
@@ -12,6 +12,8 @@
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Brwnds)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/brwnds.b/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=whitehttps://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](contatobrendabeatriz@gmail.com)
+[![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/hiustzi)
+
 
 ## 🖋 My Book
 https://publicacoes.even3.com.br/book/todos-somos-culpados-414635
