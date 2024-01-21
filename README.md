@@ -1,5 +1,4 @@
-
-### Hi everyone💕 I'm Brenda!
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Brenda+Beatriz;I'm+19+years+old;I'm+from+Brazil;I+student+software+Enginner;Be+Welcome!+:%29)](https://git.io/typing-svg)
  <img align="right" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" width="500" height="320" />
  
 
@@ -29,6 +28,9 @@ const brenda = {
 ```
 ### Status
 ![Brwnds GitHub stats](https://github-readme-stats.vercel.app/api?username=Brwnds&show_icons=true&theme=dracula&count_private=true)
+<img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carolbarbosa101&layout=compact&hide_border=true&title_color=ff91a4&text_color=ff91a4&bg_color=0d1117" />
+</div>
+
 
 ### Last Post - Linkedin:
 
