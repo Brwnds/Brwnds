@@ -2,7 +2,7 @@
  <img align="right" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" width="500" height="320" />
  
 
-- Software Enginner at <a href="http://www.unb.br">University of Brasilia</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>
+- Software engineering student at <a href="http://www.unb.br">University of Brasilia</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>
 - 🔭 I’m currently working on Nep - Linguagem
 - 🖋 Writer - Book: Todos Somos Culpados
 - 📫 How to reach me: contatobrendabeatriz@gmail.com
