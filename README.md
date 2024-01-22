@@ -34,5 +34,5 @@ const brenda = {
 
 ### Last Post - Linkedin:
 
-- [Personalizando o GitHub](https://youtu.be/TjkFGrjkXfc)<br/>
+- [Personalizando o GitHub](https://www.linkedin.com/feed/update/urn:li:activity:7155240399513542656/)<br/>
 
