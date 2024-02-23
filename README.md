@@ -34,5 +34,5 @@ const brenda = {
 
 ### Last Post - Linkedin:
 
-- [Personalizando o GitHub](https://www.linkedin.com/feed/update/urn:li:activity:7155240399513542656/)<br/>
+- [BMI calculator](https://www.linkedin.com/posts/brenda-beatriz_github-brwndsimc-calculadora-activity-7166931310073004032-J3_Z?utm_source=share&utm_medium=member_desktop)<br/>
 
