@@ -23,7 +23,7 @@ const brenda = {
   pronouns: "she" | "her",
   code: [Javascript, HTML, CSS, Python, C, C++],
   ux|ui: [Figma, Adobe Photoshop, Adobe XD, After Effects],
-  formula 1 fan: Scuderia Ferarri 🏎️🏁
+  formula 1: Scuderia Ferarri 🏎️🏁
 }
 ```
 ### Status
