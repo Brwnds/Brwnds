@@ -21,7 +21,7 @@ https://publicacoes.even3.com.br/book/todos-somos-culpados-414635
 ```javascript
 const brenda = {
   pronouns: "she" | "her",
-  code: [Javascript, HTML, CSS, Python, C, C++],
+  code: [Javascript, HTML, CSS, Python, C, C++, Python, Postgresql , Dbeaver, SQL Server, Git],
   ux|ui: [Figma, Adobe Photoshop, Adobe XD, After Effects],
   formula 1: Scuderia Ferarri 🏎️🏁
 }
