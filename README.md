@@ -3,7 +3,7 @@
  
 
 - Software engineering student at <a href="http://www.unb.br">University of Brasilia</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>
-- 🔭 I’m currently working at the Brazilian space agency
+- 🔭 I’m currently working at the Jexperts
 - 🖋 Writer - Book: Todos Somos Culpados
 - 📫 How to reach me: contatobrendabeatriz@gmail.com
 
